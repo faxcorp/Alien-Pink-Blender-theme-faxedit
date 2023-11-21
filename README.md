@@ -1,3 +1,5 @@
+my edits to make this more contrast and easy to read for polymodeling etc
+
 # Alien Pink 👽🌸 - Blender theme
 
 If you're a fan a colourful themes, you're in for a treat!
